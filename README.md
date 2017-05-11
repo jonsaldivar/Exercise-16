@@ -11,14 +11,14 @@ rolling dice
 import java.util.*;
 
 
-public class PairOfDice {
+public class Dice {
 int intDie;
 int intDie2;
 int intMaxDiceRoll = 1000;
 
 ArrayList Integer intDice = new ArrayList();
    
-   public PairOfDice() {
+   public Dice() {
     BeginProgram();
     }
     
